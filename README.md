@@ -2,7 +2,7 @@
 
 Predicting residential building hourly energy consumption (kWh) for July using machine learning models built in R. Built for eSC, a South Carolina residential electricity provider, to help manage peak demand under climate warming scenarios without infrastructure expansion.
 
-**[Live Demo — Shiny App](https://prasadshimpi.shinyapps.io/eSc_july_pred/)**  
+**[Live Demo - Shiny App](https://prasadshimpi.shinyapps.io/eSc_july_pred/)**  
 **[Project Report](https://github.com/prasad11s/IDS_Project/blob/main/Final_Energy_Usage_Report_With_Graphs.pdf)**
 
 ---
@@ -96,7 +96,13 @@ install.packages(c("shiny", "randomForest", "dplyr", "ggplot2", "DT", "xgboost")
 
 ---
 
-## Author
+## Authors
+
+**Atharva Karekar**  
+MS Applied Data Science, Syracuse University  
+
+**Tanay Pratap Singh**  
+MS Applied Data Science, Syracuse University  
 
 **Prasad Shimpi**  
 MS Applied Data Science, Syracuse University  
